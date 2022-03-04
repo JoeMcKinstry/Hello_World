@@ -1,2 +1,5 @@
 # Hello_World
-I am a student at the University of Iowa
+***Joe McKinstry***
+**Student at the University of Iowa**
+*Class of 2023*
+*Tippie Tech*
